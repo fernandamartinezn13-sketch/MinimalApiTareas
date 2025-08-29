@@ -13,7 +13,7 @@ API minimalista desarrollada en *.NET 8* para gestionar tareas, utilizando *Enti
 ## 🚀 Cómo ejecutar el proyecto
 
 1. Clonar el repositorio:
-- git clone https://github.com/fernanda/MinimalApiTareas.git
+- git clone https://github.com/fernandamartinezn13-sketch/MinimalApiTareas.git
 - cd MinimalApiTareas
 
 2. Restaurar dependencias:
